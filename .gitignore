@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 dist
 .grunt
 .divshot-cache
 =======
+=======
+>>>>>>> 8fbc9da737b5026ecadf17ad32ae08569ec467a5
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -39,4 +42,7 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+<<<<<<< HEAD
+>>>>>>> 8fbc9da737b5026ecadf17ad32ae08569ec467a5
+=======
 >>>>>>> 8fbc9da737b5026ecadf17ad32ae08569ec467a5
