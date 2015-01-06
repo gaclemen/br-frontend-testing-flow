@@ -10,6 +10,11 @@ describe('App', function() {
 
     new App().start();
 
+
+
+
+
+
     expect($classificationEl.text()).toEqual('');
   });
 });
